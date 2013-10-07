@@ -1,4 +1,4 @@
 Fishnet
 =======
 
-Plpgsql function for drawing a grid of regular hexagons of x side length bounding a geometry.
+Plpgsql function for drawing a grid of regular hexagons of side length x bounding a geometry.
